@@ -1,0 +1,4 @@
+1. TypeScript dispone de una escritura estática, mientras que JavaScript es un lenguaje dinámico.
+2. JavaScript no admite módulos, mientras que TypeScript sí que les da soporte.
+3. TypeScript dispone de interfaz, mientras que JavaScript no.
+4. En TypeScript sí que hay que compilar el código, en JavaScript no es necesario.
