@@ -1,0 +1,21 @@
+Template literals
+
+Los template literals, también conocidos como template strings, son una característica más avanzada introducida en ES6 (ECMAScript 2015). Estos permiten la interpolación de variables y expresiones en una cadena utilizando el operador ${}
+
+Los template literals facilitan la creación de cadenas de texto más dinámicas y legibles al incorporar valores variables de manera directa.
+
+Diferencias y ventajas
+
+Legibilidad y flexibilidad: en términos de legibilidad, las comillas simples y las comillas dobles son prácticamente intercambiables. Sin embargo, los template literals destacan al permitir la interpolación de variables y expresiones en una cadena, lo que hace que el código sea más claro y conciso.
+
+Uso de caracteres especiales: al trabajar con caracteres especiales, las comillas simples y dobles son útiles. Por ejemplo, si deseas usar comillas dentro de una cadena, puedes alternar entre comillas simples y dobles
+
+Interpolación dinámica: aquí es donde los template literals brillan. Puedes incorporar valores y expresiones directamente en la cadena, lo que facilita la creación de mensajes dinámicos y personalizados.
+
+Cuándo elegir los tipos de comillas en JavaScript
+
+Utiliza comillas simples o comillas dobles cuando necesites definir cadenas de texto estáticas y sencillas.
+
+Opta por template literals cuando desees construir cadenas de texto que incluyan valores variables, expresiones o necesites mejorar la legibilidad del código.
+
+En resumen, comprender las diferencias entre los tipos de comillas en JavaScript te permite elegir el enfoque más adecuado para tus necesidades. Ya sea que estés creando cadenas de texto simples o necesites mayor dinamismo en tus mensajes.
